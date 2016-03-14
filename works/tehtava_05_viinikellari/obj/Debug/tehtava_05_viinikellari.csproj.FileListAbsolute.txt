@@ -1,0 +1,6 @@
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\tehtava_05_viinikellari\bin\Debug\tehtava_05_viinikellari.exe.config
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\tehtava_05_viinikellari\obj\Debug\tehtava_05_viinikellari.csprojResolveAssemblyReference.cache
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\tehtava_05_viinikellari\obj\Debug\MainWindow.g.cs
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\tehtava_05_viinikellari\obj\Debug\App.g.cs
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\tehtava_05_viinikellari\obj\Debug\tehtava_05_viinikellari_MarkupCompile.cache
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\tehtava_05_viinikellari\obj\Debug\tehtava_05_viinikellari_MarkupCompile.lref

@@ -1,0 +1,6 @@
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\Harjoitus_04_konsoli_xml\bin\Debug\Harjoitus_04_konsoli_xml.exe.config
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\Harjoitus_04_konsoli_xml\bin\Debug\Harjoitus_04_konsoli_xml.exe
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\Harjoitus_04_konsoli_xml\bin\Debug\Harjoitus_04_konsoli_xml.pdb
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\Harjoitus_04_konsoli_xml\obj\Debug\Harjoitus_04_konsoli_xml.exe
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\Harjoitus_04_konsoli_xml\obj\Debug\Harjoitus_04_konsoli_xml.pdb
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\Harjoitus_04_konsoli_xml\obj\Debug\Harjoitus_04_konsoli_xml.csprojResolveAssemblyReference.cache

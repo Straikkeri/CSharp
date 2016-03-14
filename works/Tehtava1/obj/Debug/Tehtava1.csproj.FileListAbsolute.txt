@@ -1,0 +1,14 @@
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\Tehtava1\bin\Debug\Tehtava1.exe.config
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\Tehtava1\bin\Debug\Tehtava1.exe
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\Tehtava1\bin\Debug\Tehtava1.pdb
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\Tehtava1\obj\Debug\Tehtava1.csprojResolveAssemblyReference.cache
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\Tehtava1\obj\Debug\MainWindow.g.cs
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\Tehtava1\obj\Debug\App.g.cs
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\Tehtava1\obj\Debug\Tehtava1_MarkupCompile.cache
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\Tehtava1\obj\Debug\Tehtava1_MarkupCompile.lref
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\Tehtava1\obj\Debug\MainWindow.baml
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\Tehtava1\obj\Debug\Tehtava1.g.resources
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\Tehtava1\obj\Debug\Tehtava1.Properties.Resources.resources
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\Tehtava1\obj\Debug\Tehtava1.csproj.GenerateResource.Cache
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\Tehtava1\obj\Debug\Tehtava1.exe
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\Tehtava1\obj\Debug\Tehtava1.pdb

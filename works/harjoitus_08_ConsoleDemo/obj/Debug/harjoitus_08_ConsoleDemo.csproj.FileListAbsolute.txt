@@ -1,0 +1,6 @@
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\harjoitus_08_ConsoleDemo\bin\Debug\harjoitus_08_ConsoleDemo.exe.config
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\harjoitus_08_ConsoleDemo\bin\Debug\harjoitus_08_ConsoleDemo.exe
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\harjoitus_08_ConsoleDemo\bin\Debug\harjoitus_08_ConsoleDemo.pdb
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\harjoitus_08_ConsoleDemo\obj\Debug\harjoitus_08_ConsoleDemo.csprojResolveAssemblyReference.cache
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\harjoitus_08_ConsoleDemo\obj\Debug\harjoitus_08_ConsoleDemo.exe
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\harjoitus_08_ConsoleDemo\obj\Debug\harjoitus_08_ConsoleDemo.pdb

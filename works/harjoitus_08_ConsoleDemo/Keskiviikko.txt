@@ -1,0 +1,1 @@
+Data source = eight.labranet.jamk.fi; initial catalog = course; user = koodari; password = koodari13

@@ -1,0 +1,14 @@
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\harjoitus_03_mittausdata\bin\Debug\harjoitus_03_mittausdata.exe.config
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\harjoitus_03_mittausdata\bin\Debug\harjoitus_03_mittausdata.exe
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\harjoitus_03_mittausdata\bin\Debug\harjoitus_03_mittausdata.pdb
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\harjoitus_03_mittausdata\obj\Debug\MainWindow.g.cs
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\harjoitus_03_mittausdata\obj\Debug\App.g.cs
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\harjoitus_03_mittausdata\obj\Debug\harjoitus_03_mittausdata_MarkupCompile.cache
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\harjoitus_03_mittausdata\obj\Debug\harjoitus_03_mittausdata_MarkupCompile.lref
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\harjoitus_03_mittausdata\obj\Debug\MainWindow.baml
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\harjoitus_03_mittausdata\obj\Debug\harjoitus_03_mittausdata.g.resources
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\harjoitus_03_mittausdata\obj\Debug\harjoitus_03_mittausdata.Properties.Resources.resources
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\harjoitus_03_mittausdata\obj\Debug\harjoitus_03_mittausdata.csproj.GenerateResource.Cache
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\harjoitus_03_mittausdata\obj\Debug\harjoitus_03_mittausdata.exe
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\harjoitus_03_mittausdata\obj\Debug\harjoitus_03_mittausdata.pdb
+Z:\windows-ohjelmointi\IIO11300Vktehtavat\harjoitus_03_mittausdata\obj\Debug\harjoitus_03_mittausdata.csprojResolveAssemblyReference.cache
